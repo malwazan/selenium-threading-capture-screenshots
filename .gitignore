@@ -1,0 +1,10 @@
+chromedriver.exe
+geckodriver.exe
+
+.venv
+.pytest_cache
+__pycache__
+reports/AllureReport
+reports/HtmlReport
+screenshots
+geckodriver.log
